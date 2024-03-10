@@ -1,0 +1,1 @@
+document.getElementsByClassName('fn-insert-here')[0].innerHTML = "Wubba Lubba dub dub";
